@@ -9,13 +9,15 @@
   <h3 align="start">"Frontend Pixels, Backend Logic: Unleashing Full Stack Powers ⚙️"</h3>
   <h3 align="start">"Navigating the Full Stack Landscape with Precision 🗺️"</h3>
   <h3 align="start">"Building Tomorrow's Web Today: Full Stack Developer at Your Service 🚀"</h3>
+<!-- trophy -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=viraljain7&theme=onedark" alt="trophy">
+</a>
+<!-- trophy -->
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraljain7&label=Profile%20views&color=0e75b6&style=flat" alt="viraljain7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viraljain7" alt="viraljain7" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **veerljain1234@gmail.com**
 
