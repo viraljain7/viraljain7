@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Viral Jain</h1>
-<h3 align="center">A passionate FullStack developer from India.
-  "Building the Web from Front to Back 💻" 
-  "Crafting Seamless Experiences with Full Stack Magic ✨" 
+<h3 align="center">A passionate FullStack developer from India.\
+  "Building the Web from Front to Back 💻" \
+  "Crafting Seamless Experiences with Full Stack Magic ✨"\ 
   "Code Poet: Frontend, Backend, and Everything In Between 🚀" "From UI Design to Database Schema: Full Stack Alchemist 🔧" "Mastering the Art of Full Stack Development 🌐" "Bringing Ideas to Life: Full Stack Developer Extraordinaire 💡" "In the Browser and Beyond: Full Stack Developer Journey 🌈" "Frontend Pixels, Backend Logic: Unleashing Full Stack Powers ⚙️" "Navigating the Full Stack Landscape with Precision 🗺️" "Building Tomorrow's Web Today: Full Stack Developer at Your Service 🚀"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraljain7&label=Profile%20views&color=0e75b6&style=flat" alt="viraljain7" /> </p>
