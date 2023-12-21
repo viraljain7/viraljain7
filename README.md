@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Viral Jain</h1>
-<h3 align="center">A passionate FullStack developer from India.\
-  "Building the Web from Front to Back 💻" \
-  "Crafting Seamless Experiences with Full Stack Magic ✨"\ 
-  "Code Poet: Frontend, Backend, and Everything In Between 🚀" "From UI Design to Database Schema: Full Stack Alchemist 🔧" "Mastering the Art of Full Stack Development 🌐" "Bringing Ideas to Life: Full Stack Developer Extraordinaire 💡" "In the Browser and Beyond: Full Stack Developer Journey 🌈" "Frontend Pixels, Backend Logic: Unleashing Full Stack Powers ⚙️" "Navigating the Full Stack Landscape with Precision 🗺️" "Building Tomorrow's Web Today: Full Stack Developer at Your Service 🚀"</h3>
+ <h3 align="start">"Building the Web from Front to Back 💻"</h3>
+  <h3 align="start">"Crafting Seamless Experiences with Full Stack Magic ✨"</h3>
+  <h3 align="start">"Code Poet: Frontend, Backend, and Everything In Between 🚀"</h3>
+  <h3 align="start">"From UI Design to Database Schema: Full Stack Alchemist 🔧"</h3>
+  <h3 align="start">"Mastering the Art of Full Stack Development 🌐"</h3>
+  <h3 align="start">"Bringing Ideas to Life: Full Stack Developer Extraordinaire 💡"</h3>
+  <h3 align="start">"In the Browser and Beyond: Full Stack Developer Journey 🌈"</h3>
+  <h3 align="start">"Frontend Pixels, Backend Logic: Unleashing Full Stack Powers ⚙️"</h3>
+  <h3 align="start">"Navigating the Full Stack Landscape with Precision 🗺️"</h3>
+  <h3 align="start">"Building Tomorrow's Web Today: Full Stack Developer at Your Service 🚀"</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraljain7&label=Profile%20views&color=0e75b6&style=flat" alt="viraljain7" /> </p>
 
