@@ -16,8 +16,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=viraljain7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+
+
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=viraljain7&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=viraljain7&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=viraljain7&icon=1&color=0)](https://visitcount.itsvg.in)
