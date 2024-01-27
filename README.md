@@ -24,9 +24,34 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=viraljain7&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="240" />
 
-### Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=viraljain7&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+
+  <div>
+  
+  ### Most Used Languages
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viraljain7&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+  </div>
+
+  <div>
+
+  📊 **This week I spent my time on:**
+  <!--START_SECTION:waka-->
+
+  ```txt
+  Node         4 hrs 55 mins   ████████████▓░░░░░░░░░░░░   43.4 %
+  React        3 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   30.3 %
+  JavaScript   2 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   17.4 %
+  Express      1 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   08.7 %
+  Other        5min            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.2 %
+
+  ```
+  
+  </div>
+</div>
+
 
 ---
 
