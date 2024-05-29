@@ -3,6 +3,7 @@
 
 ---
 
+
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viral_jain_754) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jainviral) 
@@ -40,14 +41,8 @@
   📊 **This week I spent my time on:**
   <!--START_SECTION:waka-->
 
-  ```txt
-  Node         4 hrs 55 mins   ████████████▓░░░░░░░░░░░░   43.4 %
-  React        3 hrs 27 mins   ████████░░░░░░░░░░░░░░░░░   30.3 %
-  JavaScript   2 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   17.4 %
-  Express      1 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   08.7 %
-  Other        5min            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.2 %
-
-  ```
+  
+[![Viral's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=viraljain7/)](https://github.com/viraljain7/)
   
   </div>
 </div>
