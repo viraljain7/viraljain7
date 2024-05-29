@@ -2,7 +2,9 @@
 🚀 Full Stack Developer with a passion for transforming ideas into robust, innovative solutions.<br>💡 Expertise in crafting seamless web experiences through clean and efficient code.<br>🌐 Versatile skill set covering frontend and backend technologies for end-to-end development.<br>🔧 Problem-solver at heart, committed to delivering high-quality software with precision.<br>🎨 Strong design sensibility to create visually appealing and user-friendly interfaces.<br>🌟 Enthusiastic about collaborating on exciting projects that push the boundaries of technology.<br>👨‍💻 Open-source advocate, actively contributing to the developer community.<br>🚧 Always exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
 
 ---
+[![wakatime](https://wakatime.com/badge/user/018ed857-c0d3-4e15-ad30-9516ba83ce0b/project/f4ba22cc-0597-429b-a7c7-624f996614b0.svg)](https://wakatime.com/badge/user/018ed857-c0d3-4e15-ad30-9516ba83ce0b/project/f4ba22cc-0597-429b-a7c7-624f996614b0)
 
+<figure><embed src="https://wakatime.com/share/@viraljain7/a41b50c2-e1d6-4301-a520-e9383e1df849.svg"></embed></figure>
 
 ## 🌐 Socials:
 
