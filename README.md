@@ -21,20 +21,18 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=viraljain7&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=viraljain7&theme=radical&hide_border=false)
+  
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=viraljain7&limit=5&theme=radical&combine_all_yearly_contributions=true)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="240" />
 
 <div style="display: flex; justify-content: space-between;">
 
-  <div>
   
   ### Most Used Languages
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viraljain7&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
-  </div>
+
+  ### 🔝 Top Contributed Repo
+  ![](https://github-contributor-stats.vercel.app/api?username=viraljain7&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
   <div>
 
