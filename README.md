@@ -21,10 +21,17 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=viraljain7&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=viraljain7&theme=radical&hide_border=false)
-  
+---
 
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=viraljain7&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=FF3C74&currStreakNum=FFFFFF&dates=FF3C74&sideLabels=FFFFFF&fire=FF3C74&sideNums=FFFFFF&currStreakLabel=62C4FF&border=FF3C74"/>8
+</div>
+
+<div>
+    <a href="#"><img alt="tux's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=viraljain7&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=ff3c74&line=FFFFFF&point=ff3c74&hide_border=true" /></a>
+<div> 
+
+---
 
 <div style="display: flex; justify-content: space-between;">
 
@@ -33,10 +40,6 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=viraljain7&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 
-  ### 🔝 Top Contributed Repo
-  ![](https://github-contributor-stats.vercel.app/api?username=viraljain7&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-  <div>
 
   📊 **This week I spent my time on:**
   <!--START_SECTION:waka-->
@@ -47,8 +50,6 @@
   </div>
 </div>
 
-
----
 
 ## 🏆 GitHub Trophies
 
