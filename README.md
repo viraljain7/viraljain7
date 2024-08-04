@@ -28,7 +28,7 @@
 </div>
 
 <div>
-    <a href="#"><img alt="Viral's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=viraljain7&custom_title=tux%27s%20Contribution%20Graph&bg_color=0D1117&color=ff3c74&line=FFFFFF&point=ff3c74&hide_border=true" /></a>
+    <a href="#"><img alt="Viral's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=viraljain7&custom_title=viral%27s%20Contribution%20Graph&bg_color=0D1117&color=ff3c74&line=FFFFFF&point=ff3c74&hide_border=true" /></a>
 <div> 
 
 ---
