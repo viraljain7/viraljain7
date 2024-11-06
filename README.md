@@ -3,10 +3,6 @@
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/018ed857-c0d3-4e15-ad30-9516ba83ce0b/project/f4ba22cc-0597-429b-a7c7-624f996614b0.svg)](https://wakatime.com/badge/user/018ed857-c0d3-4e15-ad30-9516ba83ce0b/project/f4ba22cc-0597-429b-a7c7-624f996614b0)
-
-<figure><embed src="https://wakatime.com/share/@viraljain7/a41b50c2-e1d6-4301-a520-e9383e1df849.svg"></embed></figure>
-
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viral_jain_754) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jainviral)
@@ -55,15 +51,26 @@
 |---------------|----------------|
 | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraljain7&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"> | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=viraljain7" alt="Viral's WakaTime Stats"> |
 ---
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  </a>
+</div>
+<br>
+<br>
+
+---
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=viraljain7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=viraljain7&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
