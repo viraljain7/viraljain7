@@ -1,59 +1,91 @@
-<h1 align="center">Hi 👋, I'm Viral Jain</h1>
-🚀 Full Stack Developer with a passion for transforming ideas into robust, innovative solutions.<br>💡 Expertise in crafting seamless web experiences through clean and efficient code.<br>🌐 Versatile skill set covering frontend and backend technologies for end-to-end development.<br>🔧 Problem-solver at heart, committed to delivering high-quality software with precision.<br>🎨 Strong design sensibility to create visually appealing and user-friendly interfaces.<br>🌟 Enthusiastic about collaborating on exciting projects that push the boundaries of technology.<br>👨‍💻 Open-source advocate, actively contributing to the developer community.<br>🚧 Always exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
+<div align="center">
+  
+# 👋 Hi, I'm Viral Jain
 
----
+### Full Stack Developer | Problem Solver | Open Source Enthusiast
 
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viral_jain_754) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jainviral)
-<a href="mailto:veerljain1234@gmail.com"><img src="https://img.shields.io/badge/veerljain1234@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
----
-
-# 💻 Tech Stack:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=plastic&logo=NixOS&logoColor=white)
-
----
-# 📊 GitHub Stats:
-
-
-<div>
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viraljain7&theme=radical" alt="Profile Summary">
-</td>
-</tr>
-</table>
-
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=viraljain7&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=viraljain7&theme=radical" alt="Streak Stats"/>
-</td>
-</tr>
-</table>
-<br>
-
-
-
-<img src="https://raw.githubusercontent.com/viraljain7/viraljain7/output/snake.svg" alt="Snake animation" />
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jainviral)
+[![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/jainviral_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/viral_jain_754)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=Gmail&logoColor=white)](mailto:veerljain1234@gmail.com)
 </div>
 
 ---
 
-| Top Languages | WakaTime Stats |
-|---------------|----------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraljain7&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"> | <img src="https://github-readme-stats.vercel.app/api/wakatime?username=viraljain7" alt="Viral's WakaTime Stats"> |
+## 🚀 About Me
+
+I'm a passionate Full Stack Developer who transforms ideas into robust, innovative solutions. With a versatile skill set spanning frontend and backend technologies, I specialize in creating seamless web experiences through clean, efficient code.
+
+- 💻 Building end-to-end web applications with modern technologies
+- 🎨 Crafting visually appealing and user-friendly interfaces
+- 🔧 Solving complex problems with precision and creativity
+- 🌟 Contributing to open-source projects and the developer community
+- 📚 Constantly exploring new technologies to stay ahead in the ever-evolving tech landscape
+
 ---
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=viraljain7&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=viraljain7&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viraljain7&theme=radical" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viraljain7&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  
+### GSSOC'24 Badges
+
+<a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
@@ -61,16 +93,51 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  </a>
+</a>
+
+### GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=viraljain7&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
 </div>
-<br>
-<br>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Graph
 
-![](https://github-profile-trophy.vercel.app/?username=viraljain7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/viraljain7/viraljain7/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
+## 💡 What I'm Currently Working On
+
+- 🔭 Building scalable web applications with modern tech stacks
+- 🌱 Deepening my knowledge in cloud architecture and DevOps
+- 👯 Looking to collaborate on innovative open-source projects
+- 💬 Ask me about React, Node.js, MongoDB, or anything web development
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jainviral)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:veerljain1234@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/viral_jain_754)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ✨ "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=viraljain7&color=blueviolet&style=for-the-badge)
+
+</div>
